@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="dns-bash-scripts — animated banner" width="100%"></p>
+
 # dns-bash-scripts
 
 Three small bash scripts for auditing BIND DNS zones from a `named.conf` file: two that resolve every zone and flag the ones with problems, and one that cross-references PTR-style entries against `named.conf`.
